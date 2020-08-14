@@ -1,7 +1,7 @@
 # Welcome 
 
-[Link to another page](./one.rmd).
-
+[Link to another page](./one.html).
+[download a thing](./one.rmd).
 ### Markdown
 
 ```markdown
