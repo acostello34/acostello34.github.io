@@ -6,6 +6,8 @@ I've primarily been using R for coding so I'll share some of my insights here.
 
 I've also been collecting drum machines and synthesizers for a few years now, so I'll post some soundscapes here too.
 
+[Link to another page](./index.html).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
