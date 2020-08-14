@@ -6,18 +6,25 @@ layout: default
 
 [back](./)
 
-[my resume (may not be most recent version)](./Costello Jul 2020 Resume.pdf).
+<p> I'm a current graduate student at Villanova University studying Applied Statistics. I started my college career at Drexel University studying Digital Media but ended up graduating from Millersville University with a double major in Political Economics and Philosophy an a minor in Mathematics.</p>
+
+<p> After my undergrad, I worked in various roles in the banking industry with a focus in 401k education and wealth management.</p>
+
+<p> I enjoy discovering new things, especially related to music and films. I also enjoy playing board games and card games but find it hard to play anything other the Magic: The Gathering when I have free time. </p>
+
+
+
+[my resume](./Costello Jul 2020 Resume.pdf).
 
 ## books I'm reading
 
-* the witcher, the last witch
 * the mathematical experience
 * a history of mathematics
 * various textbooks for my classes
 
 ## most recent movies and tv shows I've watched
 
-* dark...honestly my favorite tv show
+* dark...honestly don't think I'll ever be able to find anything as high quality
 * evangelion neon genesis
 * synecdoche, new york
 * django unchained
@@ -34,19 +41,19 @@ layout: default
 
 ## gear I own
 
-* organelle
+* critter and guitarri organelle
 * volca drum
 * volca fm
 * volca sample
 * volca kick
 * arturia keystep
 * arturia drumbrute
-* minilogue
-* monologue
-* kp3+
+* korg minilogue
+* korg monologue
+* korg kp3+
 * fender duo sonic 
 * fender california malibu player
-* various pedals
+* various pedals and amps
 
 
 
