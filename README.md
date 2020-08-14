@@ -2,25 +2,31 @@
 
 [About me](./two.html).
 
+
+
+### MAT 8450 - Longitudinal Data Analysis
+
 [Link to another page with different formatting](./one.html).
 
 
-### Markdown
+### MAT 8412 - Linear Models
 
-```markdown
-#R code
-x <- c(1,2,3)
-2*x
-```
-As Kanye West said:
+[Link to another page with different formatting](./one.html).
 
-> We're living the future so
-> the present is our past.
 
-I think you should use an
-`<addr>` element here instead.
+### MAT 7500 - Statistical Programming
 
-### ?
+[Link to another page with different formatting](./one.html).
 
-### ?
+
+### DSCI 100 - Intro to Data Science - Bryn Mawr Teaching Assistant
+
+[Link to another page with different formatting](./one.html).
+
+
+### Other Projects
+
+[Link to another page with different formatting](./one.html).
+
+
 
