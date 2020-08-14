@@ -1,6 +1,6 @@
 # Welcome 
 
-[Link to another page](./index.html).
+[Link to another page](./one.html).
 
 ### Markdown
 
