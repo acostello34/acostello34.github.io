@@ -2,20 +2,51 @@
 layout: default
 ---
 
-## About me
+# About me
 
 [back](./)
 
-[my resume (might not be the most up to date)](./one.rmd).
+[my resume (may not be most recent version)](./one.rmd).
 
-# music I'm enjoying
+## books I'm reading
 
-something
+the witcher the last witch
+the mathematical experience
+a history of methematics
+various textbooks for classes
 
-# books I'm readings
+## most recent movies and tv shows I've watched
 
-# most recent movies and tv shows I've watched
+dark...honestly my favorite tv show
+evangelion neon genesis
+synecdoche, new york
+django unchained
 
-# gear I own
+## music I'm enjoying
+
+folklore
+mariee sioux
+a g cook
+100 gecs
+crystal castles
+the kinks
+
+## gear I own
+
+organelle
+volca drum
+volca fm
+volca sample
+volca kick
+arturia keystep
+arturia drumbrute
+minilogue
+monologue
+kp3+
+fender duo sonic 
+fender california malibu
+pigtronix infinity looper
+
+
 
 
