@@ -2,6 +2,8 @@
 
 [Link to another page](./one.html).
 
+[Link to another page hopefully with formatting](./two.html).
+
 [download a thing](./one.rmd).
 
 ### Markdown
