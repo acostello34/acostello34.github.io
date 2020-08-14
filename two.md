@@ -8,12 +8,14 @@ layout: default
 
 [my resume (might not be the most up to date)](./one.rmd).
 
-#music I'm enjoying
+# music I'm enjoying
 
-#books I'm readings
+something
 
-#most recent movies and tv shows I've watched
+# books I'm readings
 
-#gear I own
+# most recent movies and tv shows I've watched
+
+# gear I own
 
 
