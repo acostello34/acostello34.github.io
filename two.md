@@ -6,7 +6,7 @@ layout: default
 
 [back](./)
 
-<p> I'm a current graduate student at Villanova University studying Applied Statistics. I started my college career at Drexel University studying Digital Media but ended up graduating from Millersville University with a double major in Political Economics and Philosophy an a minor in Mathematics.</p>
+<p> I'm a current graduate student at Villanova University studying Applied Statistics. I started my college career at Drexel University studying Digital Media but ended up graduating from Millersville University with a double major in Political Economics and Philosophy and a minor in Mathematics.</p>
 
 <p> After my undergrad, I worked in various roles in the banking industry with a focus in 401k education and wealth management.</p>
 
