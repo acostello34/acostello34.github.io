@@ -1,36 +1,21 @@
-###########
-# site.title
-
-title: ET-Jekyll Theme
-description: A minimal Jekyll theme inspired by Tufte CSS
-url: https://et-jekyll.netlify.com/
-
-
-#########################
-# more settings
-
-markdown: kramdown
-
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: []
-
-sass:
-  sass_dir: css
-  style:    compressed
-
-baseurl: https://et-jekyll.netlify.com
-permalink: pretty
-timezone: America/New_York
-future: false
-
-exclude:
-- README.md
-- LICENSE.md
-
-theme: jekyll-theme-minimal
+name: "Alexander Costello"
+output_dir: "."
+navbar:
+  title: "Alexander Costello"
+  left:
+    - text: "Writing"
+      href: research.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+output:
+  html_document:
+    theme: jekyll-theme-minimal
