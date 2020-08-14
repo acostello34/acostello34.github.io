@@ -6,7 +6,7 @@ layout: default
 
 [back](./)
 
-[my resume (may not be most recent version)](./one.rmd).
+[my resume (may not be most recent version)](./Costello Jul 2020 Resume.pdf).
 
 ## books I'm reading
 
