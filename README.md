@@ -1,4 +1,4 @@
-## Welcome to my site
+## Welcome 
 
 I want to use this page to share the work I'm doing for my MS in Applied Statistics in addition to other interesting things. 
 
