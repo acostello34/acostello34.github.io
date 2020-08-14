@@ -12,8 +12,8 @@ layout: default
 
 * the witcher, the last witch
 * the mathematical experience
-* a history of methematics
-* various textbooks for classes
+* a history of mathematics
+* various textbooks for my classes
 
 ## most recent movies and tv shows I've watched
 
@@ -45,7 +45,7 @@ layout: default
 * monologue
 * kp3+
 * fender duo sonic 
-* fender california malibu
+* fender california malibu player
 * various pedals
 
 
