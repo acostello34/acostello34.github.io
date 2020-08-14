@@ -1,7 +1,9 @@
 # Welcome 
 
-<p>[Link to another page](./one.html).</p>
-<p>[download a thing](./one.rmd).</p>
+[Link to another page](./one.html).
+
+[download a thing](./one.rmd).
+
 ### Markdown
 
 ```markdown
