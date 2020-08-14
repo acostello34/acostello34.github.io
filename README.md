@@ -1,17 +1,8 @@
----
-layout: default
-title: "Alexander Costello"
-author: "Alex"
-date: "August 2020" 
-output: html_document
----
-## Welcome 
+## Welcome to GitHub Pages
 
-I want to use this page to share the work I'm doing for my MS in Applied Statistics in addition to other interesting things. 
+You can use the [editor on GitHub](https://github.com/acostello34/acostello34.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-I've primarily been using R for coding so I'll share some of my insights here.
-
-I've also been collecting drum machines and synthesizers for a few years now, so I'll post some soundscapes here too.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -44,28 +35,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Hello!
-This is going to be my personal blog where I write about anything I want.
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
