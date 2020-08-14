@@ -1,9 +1,8 @@
-## Welcome 
+# Welcome 
 
 [Link to another page](./index.html).
 
 ### Markdown
-# Markdown
 
 ```markdown
 Syntax highlighted code block
