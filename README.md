@@ -12,7 +12,10 @@
 x <- c(1,2,3)
 2*x
 ```
+As Kanye West said:
 
+> We're living the future so
+> the present is our past.
 
 ### ?
 
