@@ -19,5 +19,3 @@ navbar:
 output:
   html_document:
     theme: jekyll-theme-minimal
-
-theme: jekyll-theme-minimal
