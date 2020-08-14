@@ -1,10 +1,9 @@
 # Welcome 
 
-[Link to another page](./one.html).
+[About me](./two.html).
 
-[Link to another page hopefully with formatting](./two.html).
+[Link to another page with different formatting](./one.html).
 
-[download a thing](./one.rmd).
 
 ### Markdown
 
