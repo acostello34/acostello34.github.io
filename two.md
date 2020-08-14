@@ -10,6 +10,8 @@ layout: default
 
 <p> After my undergrad, I worked in various roles in the banking industry with a focus in 401k education and wealth management.</p>
 
+<p> I currently work as a GA with the College of Nursing and Villanova focused on statistical analysis. I also am a TA at Bryn Mawr college for their Intro to Data Science course.</p>
+
 <p> I enjoy discovering new things, especially related to music and films. I also enjoy playing board games and card games but find it hard to play anything other the Magic: The Gathering when I have free time. </p>
 
 
