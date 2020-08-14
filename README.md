@@ -1,6 +1,6 @@
 # Welcome 
 
-[About me](./two.html).
+[About me](./two.html)
 
 
 
